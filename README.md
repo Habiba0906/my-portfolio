@@ -1,2 +1,3 @@
 # my-portfolio
-a simple portfolio, nothing professional (fr0m the phantom tutorial)
+a simple portfolio built with html and tailwind
+It is about me and what I like
