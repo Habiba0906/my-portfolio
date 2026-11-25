@@ -1,5 +1,5 @@
 # my portfolio
-a silly and very basic portfolio 'about me' and what I like. it has an about me and 'projects' sections.
+a silly and very basic portfolio about me and what I like. it has an 'about me' and 'projects' section.
 
 *Tech stack:*
 - html
