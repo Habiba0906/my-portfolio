@@ -1,7 +1,10 @@
-# my-portfolio
-a simple portfolio built with html and tailwind
-It is about me and what I like. It includes a has image and a small about me section.
+# my portfolio
+a silly and very basic portfolio 'about me' and what I like. it has an about me and 'projects' sections.
 
-*How to open it:*
-go to https://habiba0906.github.io/my-portfolio/
+*Tech stack:*
+- html
+- tailwind css
+
+to run it locally just download index.html and open it using your browser.
+live demo link: https://habiba0906.github.io/my-portfolio/
 
